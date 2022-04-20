@@ -2,3 +2,8 @@
 	path = OCA/rma
 	url = git@github.com:OCA/rma.git
 	branch = 15.0
+
+[submodule "rma14"]
+	path = rma14
+	url = git@github.com:OCA/rma.git
+	branch = 14.0
